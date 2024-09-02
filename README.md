@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi 👋 I am Shadman Mohtasim Huq
 
 #### Mern Stack Developer
 My name is Shadman Mohtasim Huq. I am fueling my interest in coding by learning web development.
